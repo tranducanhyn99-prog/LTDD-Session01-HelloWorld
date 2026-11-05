@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Say Hello</string>
+    <string name="student_name" translatable="false">Trần Đức Anh</string>
+    <string name="student_id" translatable="false">MSSV_CUA_BAN</string>
+    <!-- %1$s: student name, %2$s: student ID -->
+    <string name="greeting_intro">I am %1$s, student ID %2$s.</string>
+    <string name="greeting_pattern">Hello, %1$s!</string>
+    <string name="name_hint">Your name</string>
+    <string name="say_hello">Say hello</string>
+    <string name="toast_enter_name">Please enter a name</string>
+</resources>
